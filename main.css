@@ -1,0 +1,220 @@
+html {
+    background: #e6e9e9;
+    background-image: forest.jpg;
+    -webkit-font-smoothing: antialiased;
+}
+
+body.homepage, html {
+    height: 100%;
+    background-image: url('https://www.itl.cat/pngfile/big/230-2302780_black-and-white-misty-forest.jpg');
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.gamingpage, html {
+    height: 100%;
+    background-image: url('https://wallpaperaccess.com/full/1551510.jpg');
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.raspberrypage, html {
+    height: 100%;
+    background-image: url('https://image.freepik.com/free-vector/neon-circuit-board-background_23-2148338916.jpg');
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body.aboutpage, html {
+    height: 100%;
+    background-image: 
+    url('https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg');
+    height: 100%; 
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+body.graphicspage {
+    background-image:  url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    height: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+    
+}
+
+body.nylanderpage, html {
+    height: 100%;
+    background-image: 
+    url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10afd7b9-2f55-4eb1-a9c4-383452061204/db3idyo-5368f3fc-2343-4e66-9365-b04a02d13824.jpg/v1/fill/w_1131,h_707,q_70,strp/william_nylander_wallpaper_2017_by_bjens_db3idyo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNjAwIiwicGF0aCI6IlwvZlwvMTBhZmQ3YjktMmY1NS00ZWIxLWE5YzQtMzgzNDUyMDYxMjA0XC9kYjNpZHlvLTUzNjhmM2ZjLTIzNDMtNGU2Ni05MzY1LWIwNGEwMmQxMzgyNC5qcGciLCJ3aWR0aCI6Ijw9MjU2MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.m4sRHwg1WWBejzzQ-HtD8-xPBrfruiG_4dINteXSKkU');
+    height: 100%; 
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+a.home {
+    font-family: fighters;
+    color: #F55C47;
+    text-align: left;
+    text-decoration: none;
+}
+
+b {
+    font-family: Anurati;
+    color: #564A4A;
+    text-align: center;
+    text-decoration: none;
+}
+
+.graphic {
+    border: 4px solid #564A4A;
+}
+
+.rocket {
+    width: 34%;
+    border: 4px solid #564A4A;
+}
+
+.vid {
+    margin-left: 300px;
+}
+
+.main {
+    background-color: #4AA96C;
+    padding: 16px;
+    text-align: center;
+}
+.controls {
+    text-align: center;
+}
+
+a.btn {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: futura;
+    margin-left: 50px;
+}
+
+table {
+    font-family: Avenir;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+a.control {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: futura;
+    margin-left: 50px;
+}
+
+.nyland {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px double #0044c3;
+  width: 20%;
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spotify {
+    text-align: center;
+}
+
+button.spot {
+    border: none;
+    text-decoration: none;
+    background: none;
+    
+}
+
+button.play {
+    border-radius: 100%;
+    text-decoration: none;
+    width: 60px;
+}
+
+.slidecontainer{
+    color: orange;
+    text-align: center;
+    padding: 10px;
+}
+
+.slider {
+    width: 200px;
+}
+
+a.btn:hover {
+  color: lightgrey;
+}
+
+a.home:hover {
+    color: #4AA96C;
+}
+
+h1{
+    font-family: Glitch;
+    text-align: center;
+    padding: 200px;
+    
+}
+
+h2{
+    font-family: nasa;
+    text-align: center;
+    color: #F55C47;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: nasa;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 3px;
+}
+
+h4 {
+    font-family: nasa;
+    text-align: center;
+    color: #4AA96C;
+    font-size: 20px;
+}
+
+h5 {
+    font-family: nasa;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+@font-face {
+    font-family: Glitch;
+    src: url('Glitch.otf');
+}
+
+@font-face {
+    font-family: nasa;
+    src: url('nasalization-rg.ttf');
+}
+
+@font-face {
+    font-family: fighters;
+    src: url('star.ttf');
+}
